@@ -9,3 +9,4 @@
 
 # 📖 Índice de Proyectos 📖
 ## 🔗 [Página Web Pokémon](https://github.com/EduardoHerasGit/proyectos-personales/tree/main/HTML-CSS/P%C3%A1gina%20web%20Pok%C3%A9mon)
+### - Enlace directo: https://eduardoherasgit.github.io/Pagina-Web/
