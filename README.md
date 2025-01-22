@@ -1,4 +1,4 @@
-# 📁 *Repositorio proyectos personales*
+# 📁 **Repositorio proyectos personales**
 
 ### En este repositorio publico mis proyectos personales en diferentes ámbitos de código.
 
@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# 📖 Índice de Proyectos 📖
+# 📖 Índice de Proyectos 
 ## 🔗 [HTML-CSS](https://github.com/EduardoHerasGit/proyectos-personales/tree/main/HTML-CSS)
 ###   - [Página Web Pokémon](https://github.com/EduardoHerasGit/proyectos-personales/tree/main/HTML-CSS/P%C3%A1gina%20web%20Pok%C3%A9mon)
 
