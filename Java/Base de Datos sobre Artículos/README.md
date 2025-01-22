@@ -1,18 +1,13 @@
-## Getting Started
+# 📁 **Base de Datos sobre Artículos**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### El programa GESTISIMAL (GESTIón SIMplificada de Almacén) sirve para llevar el control de los artículos de un almacén. De cada artículo se sabe el código, la descripción, el precio de compra, el precio de venta y el stock (número de unidades). El menú del programa tiene las siguientes opciones:
+#### 1. Listado
+#### 2. Alta
+#### 3. Baja
+#### 4. Modificación
+#### 5. Entrada de mercancía
+#### 6. Salida de mercancía
+#### 7. Salir
+### La entrada y salida de mercancía supone respectivamente el incremento y decremento de stock de un determinado artículo. Se controla que no se pueda sacar más mercancía de la que hay en el almacén, y el menú se despliega infinitamente hasta que el usuario decida salir del programa.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Eduardo Heras Nuño *1º de Desarrollo de Aplicaciones Multiplataforma*
