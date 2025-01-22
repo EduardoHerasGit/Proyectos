@@ -4,7 +4,4 @@
 
 #### Eduardo Heras Nuño *1º de Desarrollo de Aplicaciones Multiplataforma*
 
-<br>
-<br>
-
 ### - Enlace directo a la página: https://eduardoherasgit.github.io/Pagina-Web/
