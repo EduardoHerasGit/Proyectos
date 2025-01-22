@@ -1,18 +1,7 @@
-## Getting Started
+# 📁 **Chicago**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Juego de dados “Chicago”
+### Contamos con 2 dados de 6 caras y tres jugadores. Se jugarán 11 rondas. En cada ronda hay una puntuación objetivo que comienza por 2 en la primera y va subiendo uno a uno hasta llegar al objetivo de 12 en la ronda número 11. Cada jugador debe tirar dos dados para tratar de lograr la puntuación objetivo de la ronda sumando los números de ambos dados. Si lo conseguimos anotamos, si no, nos quedamos a cero y pasamos el turno al siguiente jugador.
+### Gana quien más puntos tenga al final de las 11 rondas.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Eduardo Heras Nuño *1º de Desarrollo de Aplicaciones Multiplataforma*
